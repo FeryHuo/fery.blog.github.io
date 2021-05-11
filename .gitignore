@@ -1,6 +1,7 @@
 *.swp
 ~*
 *~
+.idea/
 _site
 .sass-cache
 .jekyll-cache
